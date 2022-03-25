@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Pliki źródłowe">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Pliki zasobów">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="2048Home_Winapi.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="2048Home_Winapi.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="2048Home_Winapi.rc">
+      <Filter>Pliki zasobów</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="2048Home_Winapi.ico">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="2048_icon.ico">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="..\..\2048Home_Winapi\2048Home_Winapi\small.ico">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="0.bmp">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="2.bmp">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="4.bmp">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="8.bmp">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="16.bmp">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="32.bmp">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="64.bmp">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="128.bmp">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="256.bmp">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="512.bmp">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="1024.bmp">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="2048.bmp">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="..\Task\2048_icon.ico">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="..\task\icon2.ico">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

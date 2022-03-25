@@ -1,0 +1,6 @@
+﻿  2048Home_Winapi.cpp
+H:\dev\PwSG\Solutions\2048HomeV2_Winapi\2048Home_Winapi\2048Home_Winapi.cpp(558,93): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+H:\dev\PwSG\Solutions\2048HomeV2_Winapi\2048Home_Winapi\2048Home_Winapi.cpp(558,79): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+H:\dev\PwSG\Solutions\2048HomeV2_Winapi\2048Home_Winapi\2048Home_Winapi.cpp(559,94): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+H:\dev\PwSG\Solutions\2048HomeV2_Winapi\2048Home_Winapi\2048Home_Winapi.cpp(559,80): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  2048Home_Winapi.vcxproj -> H:\dev\PwSG\Solutions\2048HomeV2_Winapi\x64\Debug\2048Home_Winapi.exe
